@@ -1,2 +1,2 @@
 # demo
-git &amp; github class
+git &amp; github class.
